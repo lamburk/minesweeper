@@ -9,5 +9,4 @@
 #include <vector>
 
 
-// Implement the function fixCounts
-void fixCounts(Grid & mines, Grid & counts);
+// Write your code here
